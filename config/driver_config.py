@@ -1,11 +1,10 @@
-<<<<<<< HEAD
-=======
+
 #! /usr/bin/python3
 # coding=utf-8
 # @Time: 2023/4/15 11:17
 # @Author:
 
->>>>>>> bf93521
+
 from webdriver_manager.chrome import ChromeDriverManager
 
 from selenium import webdriver
@@ -53,7 +52,3 @@ class DriverConfig:
 
 if __name__ == "__main__":
     DriverConfig().driver_config()
-<<<<<<< HEAD
-=======
-    #
->>>>>>> bf93521
